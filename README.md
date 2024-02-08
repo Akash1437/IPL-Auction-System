@@ -16,9 +16,9 @@ https://github.com/Akash1437/IPL-Auction-System/assets/107811139/ac7b3d10-73c4-4
 
 <br>
 
-<img src="s1 mbs.jpg" alt="ss" width="947" height="445">
+<img src="IPL1.jpg" alt="ss" width="947" height="445">
 <br>
-<img src="s2 mbs.jpg" alt="ss2" width="947" height="445">
+<img src="IPL2.jpg" alt="ss2" width="947" height="445">
 
 # PROJECT INSIGHTS
 
