@@ -39,7 +39,7 @@ https://github.com/Akash1437/IPL-Auction-System/assets/107811139/7c1a27b0-de12-4
     6. There should be a SOLD button in the system, once clicked on that player will be assigned to the maximum bidder (team) and the bid amount will deduct from that team's budget.
     7. All purchased players should list under the respective team who buy them.
 <br>
-#Video 
+
 https://github.com/Akash1437/IPL-Auction-System/assets/107811139/7c1a27b0-de12-46c5-ba73-4cd713af6ce3
 
 
