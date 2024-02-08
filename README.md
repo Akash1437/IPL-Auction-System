@@ -1,15 +1,21 @@
 # IPL-Auction-System
 
 
-<video width="320" height="240" controls>
+<video width="280" height="210" controls>
   <source src="
 
-https://github.com/Akash1437/IPL-Auction-System/assets/107811139/14907fc4-ab0d-4ef2-a376-2809c255d3b1
+
+https://github.com/Akash1437/IPL-Auction-System/assets/107811139/7c1a27b0-de12-46c5-ba73-4cd713af6ce3
+
+
 
 
 " type="video/mp4">
 
 </video>
+
+
+
 
  
  <br>
@@ -32,3 +38,9 @@ https://github.com/Akash1437/IPL-Auction-System/assets/107811139/14907fc4-ab0d-4
     5. Once the bid starts for a player, then all teams can bid for that player if they want. Bidding will be open for 1 minute.
     6. There should be a SOLD button in the system, once clicked on that player will be assigned to the maximum bidder (team) and the bid amount will deduct from that team's budget.
     7. All purchased players should list under the respective team who buy them.
+<br>
+#Video 
+https://github.com/Akash1437/IPL-Auction-System/assets/107811139/7c1a27b0-de12-46c5-ba73-4cd713af6ce3
+
+
+    
