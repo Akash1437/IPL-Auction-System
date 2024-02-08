@@ -1,5 +1,18 @@
 # IPL-Auction-System
 
+<video width="320" height="240" controls>
+  <source src="
+https://github.com/Akash1437/IPL-Auction-System/assets/107811139/ac7b3d10-73c4-42d5-9000-fdfa47a6fe91
+" type="video/mp4">
+
+</video>
+
+<br>
+
+<img src="s1 mbs.jpg" alt="ss" width="947" height="445">
+<br>
+<img src="s2 mbs.jpg" alt="ss2" width="947" height="445">
+
 # PROJECT INSIGHTS
 
     1. List of players from different countries with different categories like Batsman, bowler, and all-rounder.
