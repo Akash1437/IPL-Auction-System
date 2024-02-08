@@ -12,14 +12,11 @@ https://github.com/Akash1437/IPL-Auction-System/assets/107811139/14907fc4-ab0d-4
 
  
  <br>
- #link
-https://github.com/Akash1437/IPL-Auction-System/assets/107811139/ac7b3d10-73c4-42d5-9000-fdfa47a6fe91
 
-<br>
 
-<img src="IPL1.jpg" alt="ss" width="947" height="445">
+<img src="IPL1.jpg" alt="ss" width="747" height="345">
 <br>
-<img src="IPL2.jpg" alt="ss2" width="947" height="445">
+<img src="IPL2.jpg" alt="ss2" width="747" height="345">
 
 # PROJECT INSIGHTS
 
