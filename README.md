@@ -1,5 +1,6 @@
 # IPL-Auction-System
 
+
 <video width="320" height="240" controls>
   <source src="
 
@@ -15,8 +16,12 @@ https://github.com/Akash1437/IPL-Auction-System/assets/107811139/14907fc4-ab0d-4
 
 
 <img src="IPL1.jpg" alt="ss" width="747" height="345">
-<br>
+
 <img src="IPL2.jpg" alt="ss2" width="747" height="345">
+<br>
+
+# Published Page
+ https://akash1437.github.io/IPL-Auction-System/
 
 # PROJECT INSIGHTS
 
